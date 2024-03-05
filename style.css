@@ -1,0 +1,23 @@
+.nav-item .nav-link{
+    color: #EDF1D6;
+    font-family: "Montserrat";
+}
+
+section{
+    font-family: "Montserrat";
+}
+
+.paragraf1{
+    font-family: "Merriweather";
+    color: white;
+}
+
+.paragraf2{
+    font-family: "Merriweather";
+    color: black;
+}
+
+.card .card-body{
+    background-color: #40513B;
+    color: #EDF1D6;
+}
